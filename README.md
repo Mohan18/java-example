@@ -1,6 +1,4 @@
-[![security status](https://qa.meterian.com/badge/gh/bbossola/vulnerability-java-samples/security)](https://qa.meterian.com/report/gh/bbossola/vulnerability-java-samples)
-[![stability status](https://qa.meterian.com/badge/gh/bbossola/vulnerability-java-samples/stability)](https://qa.meterian.com/report/gh/bbossola/vulnerability-java-samples) 
-_(hey, the low security is intentional here!)_
+[![DepShield Badge](https://depshield.sonatype.org/badges/Mohan18/java-example/depshield.svg)](https://depshield.github.io)
 
 Sample exploits of common vulnerabilities in Java librarires. Please go to [my blog](https://bbossola.wordpress.com/2018/04/14/remotely-execute-java-code-using-json/) for a detailed explanation!
 
